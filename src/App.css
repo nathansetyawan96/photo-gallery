@@ -1,0 +1,7 @@
+.head-back {
+  background: url('./back.jpg');
+  background-size: cover;
+  padding-top: 150px;
+  padding-bottom: 150px;
+  background-position-y: 30%;
+}
